@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a506c5d069104e68b438bbdac8b6fbc3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a506c5d069104e68b438bbdac8b6fbc3
+run_name: spiffy-swan-790
+run_uuid: a506c5d069104e68b438bbdac8b6fbc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787854873133
+status: 1
+tags: []
+user_id: mle-user
