@@ -1,0 +1,4 @@
+feature,u_stat,p_value,significant
+monthly_charges,3667080.5,3.311627651988585e-54,True
+total_charges,6288982.0,1.9959848938845826e-84,True
+contract_duration_days,9670206.0,0.0,True

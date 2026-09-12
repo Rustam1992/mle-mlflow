@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/02574535349a4fa2a77728799bb04292/artifacts
+end_time: 1788641526201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02574535349a4fa2a77728799bb04292
+run_name: worried-shrike-804
+run_uuid: 02574535349a4fa2a77728799bb04292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788641493030
+status: 3
+tags: []
+user_id: mle-user

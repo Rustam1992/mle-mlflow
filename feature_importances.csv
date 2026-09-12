@@ -1,0 +1,19 @@
+feature,importance
+cat__type_Month-to-month,0.4757385917711693
+num__total_charges,0.20070615930813113
+cat__internet_service_Fiber optic,0.12185564778526319
+num__monthly_charges,0.07464683689765053
+cat__payment_method_Electronic check,0.05793655838579491
+cat__internet_service_No internet,0.019921786669114976
+bin__paperless_billing,0.01841119381399025
+cat__multiple_lines_No,0.007625385377451044
+cat__type_Two year,0.0068637588962555535
+cat__type_One year,0.0051225668033604045
+cat__multiple_lines_No phone service,0.004668678265979577
+bin__dependents,0.0038543836883815127
+cat__multiple_lines_Yes,0.0015891481115902003
+cat__payment_method_Bank transfer (automatic),0.0009193940538533678
+cat__payment_method_Mailed check,0.00013991017201405443
+cat__payment_method_Credit card (automatic),0.0
+cat__internet_service_DSL,0.0
+bin__partner,0.0

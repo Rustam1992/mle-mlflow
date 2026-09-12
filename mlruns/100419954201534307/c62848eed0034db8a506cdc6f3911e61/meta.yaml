@@ -1,0 +1,15 @@
+artifact_uri: /home/mle-user/mle_projects/mle-mlflow/dataframe/c62848eed0034db8a506cdc6f3911e61/artifacts
+end_time: 1788635102294
+entry_point_name: ''
+experiment_id: '100419954201534307'
+lifecycle_stage: active
+run_id: c62848eed0034db8a506cdc6f3911e61
+run_name: EDA_and_model_check
+run_uuid: c62848eed0034db8a506cdc6f3911e61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788635087153
+status: 4
+tags: []
+user_id: mle-user

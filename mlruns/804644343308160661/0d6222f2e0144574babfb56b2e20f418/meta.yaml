@@ -1,0 +1,15 @@
+artifact_uri: s3://s3-student-mle-20260729-1a551ccfe6-freetrack/artifacts/models/0d6222f2e0144574babfb56b2e20f418/artifacts
+end_time: 1788719859570
+entry_point_name: ''
+experiment_id: '804644343308160661'
+lifecycle_stage: active
+run_id: 0d6222f2e0144574babfb56b2e20f418
+run_name: churn_model_final
+run_uuid: 0d6222f2e0144574babfb56b2e20f418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788719739788
+status: 3
+tags: []
+user_id: mle-user

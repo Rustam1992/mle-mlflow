@@ -1,0 +1,6 @@
+artifact_location: s3://s3-student-mle-20260729-1a551ccfe6-freetrack/artifacts/models
+creation_time: 1788716053564
+experiment_id: '804644343308160661'
+last_update_time: 1788716053564
+lifecycle_stage: active
+name: churn_fio_final
