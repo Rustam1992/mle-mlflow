@@ -1,0 +1,6 @@
+artifact_location: /home/mle-user/mle_projects/mle-mlflow/dataframe
+creation_time: 1789313646672
+experiment_id: '751642713910610053'
+last_update_time: 1789313646672
+lifecycle_stage: active
+name: churn_with_autofeat

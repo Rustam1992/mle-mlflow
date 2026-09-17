@@ -3,6 +3,6 @@ Run: churn_model_final
 Rows after EDA: 7043
 GB best CV AUC: 0.840626
 RF best CV AUC: 0.836665
-LR best CV AUC: 0.831736
+LR best CV AUC: 0.831734
 GB test AUC: 0.852756
 GB test Accuracy: 0.807496
